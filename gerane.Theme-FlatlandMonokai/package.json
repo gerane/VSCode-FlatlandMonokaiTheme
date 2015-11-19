@@ -2,7 +2,7 @@
 	"name": "Theme-FlatlandMonokai",
 	"displayName": "Flatland Monokai Theme",
 	"description": "Flatland Monokai Theme for VS Code based on the TextMate themes.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "gerane",
 	"engines": {
 		"vscode": "^0.10.1"
@@ -11,6 +11,11 @@
 		"Themes"
 	],
 	"icon": "icon.svg",
+	"homepage": "https://github.com/gerane/VSCode-FlatlandMonokaiTheme/blob/master/gerane.Theme-FlatlandMonokai/README.md",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/gerane/VSCode-FlatlandMonokaiTheme.git"
+    },
 	"contributes": {
 		"themes": [
 			{
